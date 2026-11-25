@@ -24,7 +24,7 @@ These platforms emphasize creation. You select or generate looks, define persona
 - Upgrade for extended features.
 
 <p align="center">
-  <a href="https://chubby-gf.com/dreamgf"><img src="./dream_cta1.jpg" width="110" alt="Create"></a>
+  <a href="https://chubby-gf.com/dreamgf"><img src="./dream_cta1.jpg" width="200" alt="Create"></a>
 </p>
 
 ---
@@ -63,9 +63,9 @@ Check free message or creation limits, what the plan actually unlocks, any usage
 People who want to shape a companion rather than pick from a fixed list, and who are willing to test free before committing. Less useful for pure general assistants.
 
 <p align="center">
-  <a href="https://chubby-gf.com/dreamgf"><img src="./dream_cta2.jpg" width="110" alt="Plans"></a>
+  <a href="https://chubby-gf.com/dreamgf"><img src="./dream_cta2.jpg" width="200" alt="Plans"></a>
   &nbsp;
-  <a href="https://chubby-gf.com/dreamgf"><img src="./dream_cta3.jpg" width="110" alt="Start"></a>
+  <a href="https://chubby-gf.com/dreamgf"><img src="./dream_cta3.jpg" width="200" alt="Start"></a>
 </p>
 
 ---
